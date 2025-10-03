@@ -13,6 +13,8 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Escriu un número de tres xifres");
-        
+        // int unitats = 345 % 10 = 45
+        // int desenes = (345 % 100) / 10; 
+            // string res = new string Math.Reverse().ToArray();
     }
 }

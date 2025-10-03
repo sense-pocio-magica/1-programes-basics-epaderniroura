@@ -1,0 +1,15 @@
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\bin\Debug\net9.0\exercici11.exe
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\bin\Debug\net9.0\exercici11.deps.json
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\bin\Debug\net9.0\exercici11.runtimeconfig.json
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\bin\Debug\net9.0\exercici11.dll
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\bin\Debug\net9.0\exercici11.pdb
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\obj\Debug\net9.0\exercici11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\obj\Debug\net9.0\exercici11.AssemblyInfoInputs.cache
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\obj\Debug\net9.0\exercici11.AssemblyInfo.cs
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\obj\Debug\net9.0\exercici11.csproj.CoreCompileInputs.cache
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\obj\Debug\net9.0\exercici11.sourcelink.json
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\obj\Debug\net9.0\exercici11.dll
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\obj\Debug\net9.0\refint\exercici11.dll
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\obj\Debug\net9.0\exercici11.pdb
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\obj\Debug\net9.0\exercici11.genruntimeconfig.cache
+C:\Users\emmap\Desktop\DAW\PROGRAMACIÓ\TEMA 1\Coral classe\1-programes-basics-epaderniroura\exercicis\exercici11\obj\Debug\net9.0\ref\exercici11.dll
