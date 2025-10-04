@@ -24,7 +24,6 @@ class Program
         var mes = data.Substring(2, 2);
         var any = data.Substring(4);
 
-
         Console.WriteLine($"La data és {dia}/{mes}/{any}");
     }
 };

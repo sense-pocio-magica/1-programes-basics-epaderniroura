@@ -15,7 +15,7 @@ class Program
         string numero = Console.ReadLine();
 
         Console.WriteLine("Quin és el teu codi postal?");
-         var codi = Console.ReadLine();
+        var codi = Console.ReadLine();
 
         Console.WriteLine("On vius?");
         string poblacio = Console.ReadLine();

@@ -13,7 +13,8 @@ class Program
 
         Console.WriteLine("Digue'm un any de naixement");
         var any = Console.ReadLine();
+        int any1 = Convert.ToInt16(any); 
 
         Console.WriteLine($"La teva contrasenya serà {nom}{any}");
     }
-}
+};

@@ -14,7 +14,7 @@ class Program
 
 
         string nommaju = char.ToUpper(nom[0]) + nom.Substring(1);
-        string cognommaju = char.ToUpper(cognom[0]) + nom.Substring(1);
+        string cognommaju = char.ToUpper(cognom[0]) + cognom.Substring(1);
 
         Console.WriteLine($"Hola {nommaju} {cognommaju}");
     }

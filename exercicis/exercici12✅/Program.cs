@@ -39,7 +39,7 @@ class Program
         double resta = numero11 - numero22;
         double multiplicacio = numero11 * numero22;
         double divisio = (double)numero11 / (double)numero22;
-        double divisio2 = divisio % numero22;
+        double divisio2 = numero11 % numero22;
 
         Console.WriteLine($"{numero11} + {numero22} = {suma}");
         Console.WriteLine($"{numero11} - {numero22} = {resta}");
